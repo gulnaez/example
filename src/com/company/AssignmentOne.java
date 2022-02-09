@@ -33,8 +33,9 @@ public class AssignmentOne {
         System.out.println("The perimeter of the second Shape is: " + shape2.calcPerimeter());
         System.out.println("The longest side of the second Shape is: " + shape2.longSide());
         System.out.println("The average length of the second Shape is: " + shape2.averageLength());
-    }
 
+        System.out.println("git example check");
+    }
 
 
 }
